@@ -1,3 +1,3 @@
 # swapi-client
 
-The Star Wars API
+The Star Wars API Client
